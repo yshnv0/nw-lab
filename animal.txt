@@ -1,0 +1,3 @@
+bear tiger
+elephant tiger bear
+bear
